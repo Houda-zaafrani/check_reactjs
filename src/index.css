@@ -1,0 +1,21 @@
+
+.h2{
+   padding-top: 10px;
+   text-align: center;
+   color: chartreuse;
+} 
+.cards{
+   padding-top: 10px;
+display: flex;
+justify-content: space-around;
+}
+.form{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   padding-top: 10px;
+}
+.app{
+      background-color: azure;
+
+}
